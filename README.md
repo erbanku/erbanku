@@ -1,5 +1,5 @@
 
-# ![open-source (1)](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png)  Keep the internet free and open for everyone.
+# ![open-source (1)](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png)  Keep the internet free and open for everyone
 
 ## Hey 👋, This is Cactus
 [![Gmail Badge](https://img.shields.io/badge/-github@erbanku.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:github@erbanku.com)](mailto:github@erbanku.com) [![Github Badge](https://img.shields.io/badge/-erbanku-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erbanku/)](https://www.github.com/erbanku/) [![Twitter Badge](https://img.shields.io/badge/-erbanku-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/erbanku/)](https://www.twitter.com/erbanku/) 
