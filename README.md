@@ -6,7 +6,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=erbanku alt=erbanku /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&include_all_commits=true)](https://github.com/erbanku/github-readme-stats)
+![Cactus's GitHub stats](https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact)](https://github.com/erbanku/github-readme-stats)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=erbanku&)
 
