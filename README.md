@@ -6,9 +6,18 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=erbanku alt=erbanku /> </p>
 
-![Cactus's GitHub stats](https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact)](https://github.com/erbanku/github-readme-stats)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=erbanku&)
+<a href="https://github.com/erbanku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/erbanku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=dark" />
+</a>
+<a href="https://github.com/erbanku">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/erbanku">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=dark" />
+</a>
 
 
 <!--
