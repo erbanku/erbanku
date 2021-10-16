@@ -44,7 +44,11 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=erbanku&bg_color=151515&color=ffffff&line=f18900&point=5ac465&area=true&hide_border=true" width="100%"/>
 </p>
 
+<p align=center>
 
+  <br>
+<img src="https://wakatime.com/share/@erbanku/41d59568-fcd8-487e-8afd-5676f93b06c2.svg" width="100%">
+</p>
 
 
 <!--
