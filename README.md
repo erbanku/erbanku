@@ -53,9 +53,6 @@
 
 ![ShareX_2021-10-17_18-33-19_Window](https://user-images.githubusercontent.com/79493862/137623669-49da4009-d958-4169-aa5b-c2e28b4f82ca.png)
 
-![download (1)](https://user-images.githubusercontent.com/79493862/137633960-3fb22c51-cec8-4239-9545-733342bf4d4c.png)
-
-
 <!--
 **erbanku/erbanku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
