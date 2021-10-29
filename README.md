@@ -47,9 +47,11 @@
 <p align=center>
 
   <br>
-<img src="https://wakatime.com/share/@erbanku/41d59568-fcd8-487e-8afd-5676f93b06c2.svg" width="100%">
+<img src="https://wakatime.com/share/@erbanku/049bb86f-2d1b-4d3c-98b2-13144dcb134b.svg" width="100%">
 </p>
 
+<img src="https://wakatime.com/share/@erbanku/2af47053-98d2-4471-83a2-1099b47afbf3.svg" width="100%">
+</p>
 
 ![ShareX_2021-10-17_18-33-19_Window](https://user-images.githubusercontent.com/79493862/137623669-49da4009-d958-4169-aa5b-c2e28b4f82ca.png)
 
