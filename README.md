@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=Hello+There!+👋;This+is+Cactus....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<!--
 <h1 align="center">
   <a href="mailto:github@erbanku.com">
    <img src="https://img.shields.io/badge/-github@erbanku.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:github@erbanku.com"></a>
@@ -19,7 +19,7 @@
   <a href="https://www.twitter.com/erbanku/">
    <img src="https://img.shields.io/badge/-erbanku-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/erbanku/"></a>
 </h1>           
-
+-->
   
 ## Some of my Github Stats
 
