@@ -1,6 +1,8 @@
 
-# ![open-source (1)](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png)   Keep the internet free & open for everyone
-
+# ![open-source (1)](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png)  Cactus ❤️ Open Source
+<!--
+Keep the internet free & open for everyone
+-->
 <!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erbanku.zumrudu-erbanku">
 -->
