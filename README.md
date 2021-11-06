@@ -12,6 +12,12 @@ Keep the internet free & open for everyone
     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=Hello+There!+👋;This+is+Cactus....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<!--erbanku in Binary -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=01100101;01110010;01100010;01100001;01101110;01101011;01110101&center=true&size=30">
+  </a>
+</h2>
 <!--
 <h1 align="center">
   <a href="mailto:github@erbanku.com">
