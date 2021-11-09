@@ -37,13 +37,13 @@ Keep the internet free & open for everyone
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=dark" width="48%"/>
 </a>
 <a href="https://github.com/erbanku">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=dark" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=dark" width="48%"/>
 </a>
 <a href="https://github.com/erbanku">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=dark" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=dark" width="48%"/>
 </a>
 <a href="https://github.com/erbanku">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=dark" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=dark" width="48%" />
 </a>
 
 <p align=center>
