@@ -1,4 +1,4 @@
-# ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) Cactus ❤️ Open Source
+# ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) _Cactus ❤️ Open Source_
 
 <!--
 Keep the internet free & open for everyone
@@ -31,7 +31,7 @@ Keep the internet free & open for everyone
 </h1>           
 -->
   
-## Some of my Github Stats
+## _Some of my Github Stats_
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=erbanku alt=erbanku /> </p>
 
