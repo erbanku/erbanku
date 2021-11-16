@@ -6,6 +6,7 @@ Keep the internet free & open for everyone
 <!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erbanku.zumrudu-erbanku">
 -->
+![](https://d33wubrfki0l68.cloudfront.net/8b2cd40c776adc78a6b6f0a35e3ac53569d9b6ab/6e000/assets/octocat-primed.png)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
