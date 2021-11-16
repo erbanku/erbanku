@@ -1,16 +1,17 @@
+# ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) Cactus ❤️ Open Source
 
-# ![open-source (1)](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png)  Cactus ❤️ Open Source
 <!--
 Keep the internet free & open for everyone
 -->
 <!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=erbanku.zumrudu-erbanku">
 -->
+
 ![](https://d33wubrfki0l68.cloudfront.net/8b2cd40c776adc78a6b6f0a35e3ac53569d9b6ab/6e000/assets/octocat-primed.png)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=Hello+There!+👋;This+is+Cactus....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=Hello+There!+👋;Pleased+to+meet+you!;&center=true&size=30">
   </a>
 </h1>
 <!--erbanku in Binary -->
