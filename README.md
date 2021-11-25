@@ -8,22 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=Hello+There!+👋;Pleased+to+meet+you!;&center=true&size=30">
   </a>
 </h1>
-<!--erbanku in Binary -->
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F18900&lines=01100101;01110010;01100010;01100001;01101110;01101011;01110101&center=true&size=30">
-  </a>
-</h2>
-<!--
-<h1 align="center">
-  <a href="mailto:github@erbanku.com">
-   <img src="https://img.shields.io/badge/-github@erbanku.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:github@erbanku.com"></a>
-  <a href="https://www.github.com/erbanku/">
-   <img src="https://img.shields.io/badge/-erbanku-grey?style=flat&logo=github&logoColor=white&link=https://github.com/erbanku/"></a>        
-  <a href="https://www.twitter.com/erbanku/">
-   <img src="https://img.shields.io/badge/-erbanku-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/erbanku/"></a>
-</h1>           
--->
   
 ## _Some of my Github Stats_
 
