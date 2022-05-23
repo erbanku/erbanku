@@ -50,6 +50,12 @@
 </p>
 <a href="https://github.com/erbanku"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erbanku&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 ![ShareX_2022-02-27_18-32-05_Sunday_Window](https://user-images.githubusercontent.com/79493862/155878860-9e0d4d02-7515-40b0-a908-05417b339f6c.png)
 
 
