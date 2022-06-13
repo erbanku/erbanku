@@ -1,2 +1,13 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
+name: GitHub-Profile-Snake
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-snake
+    steps:
+      - uses: Platane/snk@v2.0.0-rc.2
