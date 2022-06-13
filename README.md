@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=dark" />
 </a>
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku)
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&bg=31343f&fg=ffffff&size=200&theme=dark)
 
 <a href="https://github.com/erbanku">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=dark" />
@@ -54,7 +54,7 @@
 </p>
 <a href="https://github.com/erbanku"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erbanku&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg&bg#31343f)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### ✍️Random Dev Quote
 
