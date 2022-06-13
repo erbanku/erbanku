@@ -54,7 +54,7 @@
 </p>
 <a href="https://github.com/erbanku"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erbanku&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg&bg#31343f)
 
 ### ✍️Random Dev Quote
 
