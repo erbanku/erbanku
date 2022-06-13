@@ -11,3 +11,9 @@ jobs:
     name: generate-github-profile-snake
     steps:
       - uses: Platane/snk@v2.0.0-rc.2
+        with:
+          github_user_name: erbanku
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
