@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=dark" />
 </a>
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff)
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=151515)
 
 <a href="https://github.com/erbanku">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=dark" />
