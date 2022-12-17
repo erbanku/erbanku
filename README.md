@@ -34,13 +34,8 @@
 
 ![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff)
 
-<a href="https://github.com/erbanku">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=light" />
-</a>
-
 <p align=center>
 
-  <br>
 <img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg" width="100%">
 </p>
 
@@ -58,7 +53,9 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ![ShareX_2022-02-27_18-32-05_Sunday_Window](https://user-images.githubusercontent.com/79493862/155878860-9e0d4d02-7515-40b0-a908-05417b339f6c.png) -->
-
+<a href="https://github.com/erbanku">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=light" />
+</a>
 ## 💰You can help me by Donating
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/erbankuglobal) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/erbanku)
