@@ -46,7 +46,6 @@
 
 <img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg" width="100%">
 </p>
-<a href="https://github.com/erbanku"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erbanku&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ![](./profile-3d-contrib/profile-season.svg)
 
