@@ -41,12 +41,6 @@
 <p align=center>
 
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=erbanku&bg_color=151515&color=ffffff&line=f18900&point=5ac465&area=true&hide_border=true" width="100%"/>
-</p>
-
-<p align=center>
-
-  <br>
 <img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg" width="100%">
 </p>
 
