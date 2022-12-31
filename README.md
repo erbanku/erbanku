@@ -43,6 +43,8 @@
 </p>
 
 ![](./profile-3d-contrib/profile-season.svg)
+![contributions-2021-2022](https://user-images.githubusercontent.com/79493862/210143144-a1e174d2-266f-4f10-bf93-843c2bf1beff.png)
+
 
 ### ✍️Random Dev Quote
 
