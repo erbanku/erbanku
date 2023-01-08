@@ -63,7 +63,7 @@
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/erbankuglobal) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/erbanku)
 ## The Future is Open
-![TheFutureisOpen (4)](https://user-images.githubusercontent.com/79493862/210569571-888ab0ac-d77e-417a-b0da-09d44b4f9227.png)
+![open_future](https://user-images.githubusercontent.com/79493862/211202090-64620408-1d72-4007-b202-ca9aed6f3d2e.png)
 
 <!--
 **erbanku/erbanku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
