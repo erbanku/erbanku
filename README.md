@@ -14,6 +14,7 @@
 ## 🔐GPG Public Key
 
 Below is my GPG public key. You can use it to verify my commits and releases.
+
 GPG key ID: `E4B0ABC94A6222EC`
 
 <details>
