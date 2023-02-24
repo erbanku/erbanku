@@ -18,9 +18,11 @@ Below is my GPG public key. You can use it to verify my commits and releases.
 GPG key ID: `E4B0ABC94A6222EC`
 
 <details>
-<summary>GPG Public Key Details</summary>
-```
+<summary>Details</summary>
+
+```bash
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 mQINBGLZdDwBEACu7kzFiZpBejwUqAlB1GoKD6KkX4Gg/WkKOKO7SCb93DFuRnqX
 I4Iek/ZehgJnPSvWq5Of09aifVBit3ANuqQhMvQCruKnDkfoG/hBaL/6HfC4RSCx
 tmZC7TU9gChO4Pt3uPaasxcikpYm6RThfnroZ3OqqmdvsYC4Z5QO1JEISBIcjeJH
@@ -72,6 +74,7 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 =3GSx
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
 </details>
 
 ## 🌐Socials
