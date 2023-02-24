@@ -11,6 +11,67 @@
   </a>
 </h1>
 
+## 🔐GPG Public Key
+
+Below is my GPG public key. You can use it to verify my commits and releases.
+GPG key ID: `E4B0ABC94A6222EC`
+
+<details>
+<summary>GPG Public Key Details</summary>
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+/ss=
+=3GSx
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
 ## 🌐Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/erbankugl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erbanku) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erbanku) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erbankuglobal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erbanku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erbanku)
@@ -45,7 +106,6 @@
 ![](./profile-3d-contrib/profile-season.svg)
 ![contributions-2021-2022](https://user-images.githubusercontent.com/79493862/210143144-a1e174d2-266f-4f10-bf93-843c2bf1beff.png)
 
-
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
@@ -62,7 +122,9 @@
 ## 💰You can help me by Donating
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/erbankuglobal) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/erbanku)
+
 ## The Future is Open
+
 ![open_future](https://user-images.githubusercontent.com/79493862/211202090-64620408-1d72-4007-b202-ca9aed6f3d2e.png)
 
 <!--
