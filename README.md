@@ -1,7 +1,7 @@
 
 # ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) _Cactus ❤️ Open Source_
-[![](https://visitcount.itsvg.in/api?id=erbanku&icon=2&color=11)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=erbanku&icon=2&color=11)](https://visitcount.itsvg.in)
 
 ![Making the world a better place](https://user-images.githubusercontent.com/79493862/235561941-2f3d437b-d0bb-4b1d-850a-d9d2bc561744.gif)
 
@@ -81,7 +81,7 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 
 ## 🌐Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/erbankugl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erbanku) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erbanku) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erbankuglobal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erbanku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erbanku)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/erbanku#0963) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erbanku) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erbanku) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erbankuglobal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erbanku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erbanku)
 
 <!-- # 💻Tech Stack
 
