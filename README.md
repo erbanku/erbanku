@@ -129,6 +129,52 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 ## 💰You can help me by Donating
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/erbankuglobal) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/erbanku)
+
+<!-- GitHub metrics 信息指标 -->
+
+<div align="center">
+<!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/assets/images/githubgif.gif" />
+
+<!-- first form 第一个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
+<!-- second form 第二个表格 -->
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/discussions.svg" alt="discussions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/stars.svg" alt="stars" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/erbanku/erbanku/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+  </tr>
+</table>
+
 <!-- 
 ## The Future is Open
 
