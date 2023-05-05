@@ -110,7 +110,13 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 <img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg" width="100%">
 </p>
 
-![](./profile-3d-contrib/profile-season.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 ![contributions-2021-2022](https://user-images.githubusercontent.com/79493862/210143144-a1e174d2-266f-4f10-bf93-843c2bf1beff.png)
 
 ### ✍️Random Dev Quote
