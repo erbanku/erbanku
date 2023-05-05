@@ -123,9 +123,6 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
     <td>
       <img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg" width="100%">
     </td>
-      <td>
-      <img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg" width="100%">
-    </td>
   </tr>
 </table>
 
