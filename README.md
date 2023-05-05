@@ -3,7 +3,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=erbanku&icon=2&color=11)](https://visitcount.itsvg.in)
 
-![Making the world a better place](https://user-images.githubusercontent.com/79493862/235561941-2f3d437b-d0bb-4b1d-850a-d9d2bc561744.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/79493862/236436949-bed26b8e-8064-476e-92b7-dc4de0e1d52d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/79493862/236436938-2910bc85-2857-4f54-9a14-6f1a62f8d71c.gif">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
