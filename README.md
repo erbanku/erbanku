@@ -129,7 +129,10 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 
 ### ✍️Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+</picture>
 
 
 <picture>
