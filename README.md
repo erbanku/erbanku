@@ -135,17 +135,13 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-![ShareX_2022-02-27_18-32-05_Sunday_Window](https://user-images.githubusercontent.com/79493862/155878860-9e0d4d02-7515-40b0-a908-05417b339f6c.png) -->
-<a href="https://github.com/erbanku">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=light" />
-</a>
 
+<a href="https://github.com/erbanku">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=light">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-
+</a>
 
 ## 💰You can help me by Donating
 
