@@ -105,26 +105,16 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=light" />
 </a>
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff)
+
+<img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg" width="100%">
+</p>
 
 <p align=center>
 
 <img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg" width="100%">
 </p>
 
-<img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg" width="100%">
-</p>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://camo.githubusercontent.com/0d50f2c56bc557c5f41fbfa292cffa1fbafa76fcffc70864ff829b9070132d81/68747470733a2f2f63722d736b696c6c732d63686172742d7769646765742e617a75726577656273697465732e6e65742f6170692f6170693f757365726e616d653d657262616e6b75266272616e64696e673d66616c73652663686172742d62672d636f6c6f723d7472616e73706172656e742662673d666666" width="100%">
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg" width="100%">
-    </td>
-  </tr>
-</table>
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-night-green.svg">
