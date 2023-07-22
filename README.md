@@ -1,5 +1,5 @@
 
-# ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) _Cactus ❤️ Open Source_
+# ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) Cactus ❤️ Open Source
 
 ## Contributing to the World's Open Source Projects
 
@@ -103,36 +103,6 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 <details>
 <summary>Details</summary>
 
-<!-- <a href="https://github.com/erbanku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=light" />
-</a>
-<a href="https://github.com/erbanku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=light" />
-</a>
-
-<a href="https://github.com/erbanku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=light" />
-</a>
-
-<img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg" width="80%">
-</p>
-
-<p align=center>
-
-<img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg" width="80%">
-</p>
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-![contributions-2021-2022](https://user-images.githubusercontent.com/79493862/210143144-a1e174d2-266f-4f10-bf93-843c2bf1beff.png) -->
-
-<!-- Support light and dark themes -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=dark">
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=light">
