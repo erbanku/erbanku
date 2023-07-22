@@ -145,21 +145,15 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/ac1f4813-bf3c-4d8b-a59b-2fac7daf3cee.svg">
 <source media="(prefers-color-scheme: light)" srcset="hhttps://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg">
 <img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c" alt="WakaTime">
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/80646b3c-399a-4569-b619-24e7d2e127b1.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg">
 <img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2" alt="WakaTime">
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=000">
-<source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff">
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats">
 </picture>
 
 <picture>
