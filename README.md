@@ -146,8 +146,8 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/ac1f4813-bf3c-4d8b-a59b-2fac7daf3cee.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg">
-<img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c" alt="WakaTime">
+<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@erbanku/177f0028-d4c0-4894-9adb-e721113852ee.svg">
+<img src="https://wakatime.com/share/@erbanku/177f0028-d4c0-4894-9adb-e721113852ee" alt="WakaTime">
 </picture>
 
 <picture>
@@ -166,6 +166,7 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-night-green.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg">
 <img src="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions">
+
 </picture>
 
 </details>
