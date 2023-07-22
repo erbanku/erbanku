@@ -127,21 +127,7 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 
 </details>
 
-### ✍️Random Dev Quote
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote">
-
-</picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=light">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=erbanku&theme=light" alt="GitHub Readme Streak Stats">
-</picture> -->
-
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
