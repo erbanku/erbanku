@@ -87,6 +87,7 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 
 <details>
 <summary>Details</summary>
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/erbanku) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erbanku) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erbanku) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/erbankuglobal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@erbanku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erbanku)
 
 ## 💻 Tech Stack
@@ -161,7 +162,7 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 </picture>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=151515">
+<source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=16324e&tetx-label-color=fff">
 <source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff">
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats">
 </picture>
