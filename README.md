@@ -96,7 +96,7 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
 <details>
 <summary>Details</summary>
 
-<a href="https://github.com/erbanku">
+<!-- <a href="https://github.com/erbanku">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/erbanku">
@@ -123,8 +123,62 @@ KnuGBkO1dYpH3dMrzt8OkNlrCMUeM/CzYYfhs+UvB637RRaSrzzFkHrHOA9xtKQT
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-![contributions-2021-2022](https://user-images.githubusercontent.com/79493862/210143144-a1e174d2-266f-4f10-bf93-843c2bf1beff.png)
+![contributions-2021-2022](https://user-images.githubusercontent.com/79493862/210143144-a1e174d2-266f-4f10-bf93-843c2bf1beff.png) -->
 
+<!-- Support light and dark themes -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=light">
+<img src="https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true&theme=light" alt="GitHub Stats">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=light">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku&theme=light" alt="WakaTime Stats">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=light">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact&theme=light" alt="Top Languages">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg">
+<source media="(prefers-color-scheme: light)" srcset="hhttps://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c.svg">
+<img src="https://wakatime.com/share/@erbanku/116b79cd-7c08-46db-9d2f-51b08cb6ec3c" alt="WakaTime">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2.svg">
+<img src="https://wakatime.com/share/@erbanku/759a2375-491e-4e8a-9afb-7e7557f1e8c2" alt="WakaTime">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=000">
+<source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=000">
+<source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku&branding=false&chart-bg-color=transparent&bg=fff" alt="Code::Stats">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https:raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-night-green.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg">
+<img src="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg" alt="3D Contributions">
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+<img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" alt="GitHub Contributions">
+</picture>
 </details>
 
 ## ✍️Random Dev Quote
