@@ -23,7 +23,9 @@
 
 Below is my GPG public key. You can use it to verify my commits and releases.
 
-GPG key ID: `E4B0ABC94A6222EC`
+GPG key ID: `D3229292CE02E2CC` Since `07/21/2024`
+
+Previous GPG key ID: `E4B0ABC94A6222EC`
 
 <details>
 <summary>Details</summary>
