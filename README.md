@@ -5,6 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=erbanku&icon=2&color=11)](https://visitcount.itsvg.in)
 [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/79493862/236436949-bed26b8e-8064-476e-92b7-dc4de0e1d52d.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/79493862/236436938-2910bc85-2857-4f54-9a14-6f1a62f8d71c.gif">
