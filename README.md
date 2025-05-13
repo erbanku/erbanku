@@ -7,8 +7,8 @@
 [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/79493862/236436949-bed26b8e-8064-476e-92b7-dc4de0e1d52d.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/79493862/236436938-2910bc85-2857-4f54-9a14-6f1a62f8d71c.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/35e9158f-be84-4828-bc34-e1b43467700a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e3b8b56e-ad54-4a1c-a441-b2aff0a06b03">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
