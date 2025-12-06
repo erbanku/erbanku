@@ -6,11 +6,11 @@
 [![](https://visitcount.itsvg.in/api?id=erbanku&icon=2&color=11)](https://visitcount.itsvg.in)
 [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/35e9158f-be84-4828-bc34-e1b43467700a">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e3b8b56e-ad54-4a1c-a441-b2aff0a06b03">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+</picture> -->
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -132,6 +132,7 @@ fO0zePeXc3PrI10/iR4O
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/erbankuglobal) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/erbanku)
 ## 😋Mario 
 ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
+
 
 
 
