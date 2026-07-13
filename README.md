@@ -1,6 +1,220 @@
 
 # ![open-source](https://user-images.githubusercontent.com/79493862/130308685-60eee7b7-120a-45ae-8a41-35d090ae335c.png) Cactus ❤️ Open Source
 
+<details>
+  <summary>For Agents</summary>
+
+{
+  "$schema": "https://example.com/profile-readme.schema.json",
+  "profile": {
+    "name": "Cactus",
+    "username": "erbanku",
+    "tagline": "Contributing to the World's Open Source Projects",
+    "motto": "Just for fun. No, really.",
+    "badges": [
+      {
+        "name": "justforfunnoreally.dev",
+        "url": "https://justforfunnoreally.dev"
+      },
+      {
+        "name": "profile-visit-counter",
+        "url": "https://visitcount.itsvg.in"
+      }
+    ]
+  },
+
+  "security": {
+    "gpg": {
+      "current_key": {
+        "key_id": "D3229292CE02E2CC",
+        "active_since": "2024-07-21",
+        "purpose": [
+          "commit signing",
+          "release verification"
+        ],
+        "public_key_block": "-----BEGIN PGP PUBLIC KEY BLOCK-----\nmDMEZpx9axYJKwYBBAHaRw8BAQdAb9uP6RDVbuOFN4oRN0V48mE4cU6vefGCa03P\nV+xon8m0M2VyYmFua3UgPDc5NDkzODYyK2VyYmFua3VAdXNlcnMubm9yZXBseS5n\naXRodWIuY29tPoiZBBMWCgBBAhsjBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheA\nFiEE0xPJ0d6n9gTSBMQN0yKSks4C4swFAmacfbcFCVo5CVgACgkQ0yKSks4C4szg\nawEAgk9fD+TOiyHqEz0wrkqMqNwrAraK3hUelHE+MzOG/oABAKpPQwHTlHKy3Hlw\nKC8x013nMzDzGqA43zCSIT3FqwIHuDgEZpx9axIKKwYBBAGXVQEFAQEHQIGMbc1V\nxb15GHhuOZ690O5itB0AvDSMoxk2crqnPxllAwEIB4h+BBgWCgAmAhsMFiEE0xPJ\n0d6n9gTSBMQN0yKSks4C4swFAmacfbcFCVo5CVgACgkQ0yKSks4C4sx4HQEAwbN9\nzvtUBd+7azc757qGouo/bM5F78h/Yaja2qXmgkUA/AslwrChaPRmJrXehq84vNNK\nfO0zePeXc3PrI10/iR4O\n=nP8o\n-----END PGP PUBLIC KEY BLOCK-----"
+      },
+      "previous_key": {
+        "key_id": "E4B0ABC94A6222EC",
+        "status": "retired"
+      }
+    }
+  },
+
+  "tech_stack": {
+    "languages": [
+      "C",
+      "C++",
+      "Go",
+      "JavaScript",
+      "Julia",
+      "Python",
+      "R",
+      "Rust",
+      "Shell Script",
+      "HTML5",
+      "CSS3",
+      "LaTeX",
+      "Markdown"
+    ],
+    "frontend": [
+      "Angular",
+      "Angular.js",
+      "Ant Design",
+      "Bootstrap",
+      "Gatsby",
+      "Next.js",
+      "Nuxt.js",
+      "React",
+      "React Native",
+      "SASS",
+      "Stylus",
+      "Svelte",
+      "TailwindCSS",
+      "Three.js",
+      "Vue.js"
+    ],
+    "backend": [
+      "Django",
+      "Fastify",
+      "Node.js",
+      "Rails",
+      "Socket.io",
+      "Qt",
+      "Nginx",
+      "Swagger"
+    ],
+    "databases": [
+      "Microsoft SQL Server",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Redis",
+      "SQLite",
+      "ElasticSearch",
+      "Firebase"
+    ],
+    "cloud_and_hosting": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "DigitalOcean",
+      "Heroku",
+      "Netlify",
+      "Vercel"
+    ],
+    "devops_and_tooling": [
+      "Ansible",
+      "CMake",
+      "Docker",
+      "ESLint",
+      "Kubernetes",
+      "Terraform",
+      "Webpack",
+      "Yarn",
+      "Linux",
+      "Raspberry Pi",
+      "Postman"
+    ],
+    "data_science_and_ml": [
+      "Anaconda",
+      "NumPy",
+      "Pandas",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "design": [
+      "Adobe After Effects",
+      "Adobe Audition",
+      "Adobe Dreamweaver",
+      "Adobe Illustrator",
+      "Adobe Photoshop",
+      "Adobe Premiere Pro",
+      "Canva",
+      "Dribbble",
+      "Figma",
+      "Sketch"
+    ],
+    "productivity": [
+      "Confluence",
+      "Jira",
+      "Notion",
+      "Trello"
+    ]
+  },
+
+  "github_stats": {
+    "provider": "github-readme-stats.vercel.app",
+    "widgets": [
+      {
+        "type": "overview",
+        "url": "https://github-readme-stats.vercel.app/api?username=erbanku&show_icons=true",
+        "themes": ["light", "dark"]
+      },
+      {
+        "type": "top_languages",
+        "url": "https://github-readme-stats.vercel.app/api/top-langs/?username=erbanku&layout=compact",
+        "themes": ["light", "dark"]
+      },
+      {
+        "type": "wakatime",
+        "url": "https://github-readme-stats.vercel.app/api/wakatime?username=@erbanku",
+        "themes": ["light", "dark"]
+      },
+      {
+        "type": "code_stats_skills_chart",
+        "url": "https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbanku",
+        "themes": ["light", "dark"]
+      },
+      {
+        "type": "3d_contribution_graph",
+        "light": "https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg",
+        "dark": "https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-night-green.svg"
+      }
+    ]
+  },
+
+  "extras": {
+    "random_dev_quote": {
+      "provider": "quotes-github-readme.vercel.app",
+      "url": "https://quotes-github-readme.vercel.app/api?type=horizontal",
+      "themes": ["light", "dark"]
+    },
+    "typing_animation": {
+      "provider": "readme-typing-svg.herokuapp.com",
+      "lines": [
+        "Hello There!",
+        "Pleased to meet you!"
+      ],
+      "color": "#F18900"
+    }
+  },
+
+  "support": {
+    "donations": [
+      {
+        "platform": "PayPal",
+        "url": "https://paypal.me/erbankuglobal"
+      },
+      {
+        "platform": "Patreon",
+        "url": "https://patreon.com/erbanku"
+      }
+    ]
+  },
+
+  "meta": {
+    "license": "CC0-1.0",
+    "last_updated": "2026-07-13",
+    "format": "json-readme/v1",
+    "notes": [
+      "No emoji used, per configuration.",
+      "All badge and stat widgets support prefers-color-scheme for light and dark modes."
+    ]
+  }
+}
+</details>
+
 ## Contributing to the World's Open Source Projects
 [![](https://visitcount.itsvg.in/api?id=erbanku&icon=2&color=11)](https://visitcount.itsvg.in)
 [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
